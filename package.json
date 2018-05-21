@@ -1,0 +1,23 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjmcquain/express_demo.git"
+  },
+  "author": "Charles J. McQuain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjmcquain/express_demo/issues"
+  },
+  "homepage": "https://github.com/cjmcquain/express_demo#readme"
+}
